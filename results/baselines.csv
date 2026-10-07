@@ -1,0 +1,5 @@
+model,MAE,RMSE,MAPE_%,regret_kg_per_mwh,captured_savings_%,days_scored
+yesterday,21.37,29.17,12.61,4.1,94.86,362
+avg_7day,23.98,31.22,14.38,3.74,95.31,363
+last_week,31.57,41.47,18.62,6.72,91.57,362
+climatology,32.65,44.27,21.56,12.51,84.31,363
